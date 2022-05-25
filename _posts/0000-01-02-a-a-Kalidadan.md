@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
-Use the left arrow to go back!
+float like abutterfly,sting like a bee"
+Use the left alike arrow to go back!
